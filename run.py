@@ -51,7 +51,7 @@ with mss() as sct:
                     # Draw the circle in the output image
                     cv2.circle(
                         img=img, center=(x, y), radius=r,
-                        color=(255, 255, 0), thickness=4)
+                        color=(255,239,213), thickness=4)
 
                 # Draw a rectangle corresponding to the center of all detected circles
                 cv2.rectangle(
