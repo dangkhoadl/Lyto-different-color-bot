@@ -2,6 +2,17 @@
 # Lyto bot
 - Create a bot playing [Lyto DIFFERENT COLOR](https://www.facebook.com/instantgames/1099543880229447)
 
+#### Build and run
+
+```bash
+# Build
+make init
+
+# Run
+. ${PWD}/venv/bin/activate
+make run
+```
+
 #### Demo
 
 <img src="./assets/demo.jpg" width="700"/>
