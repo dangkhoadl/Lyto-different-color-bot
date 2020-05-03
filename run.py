@@ -57,8 +57,8 @@ with mss() as sct:
             for index, (x, y, r) in enumerate(circles):
                 if index == abnorm_circle:
                     # CLick
-                    sleep(0.1)
                     pyautogui.click(x + monitor["left"], y + monitor["top"]);
+                    sleep(0.25)
 
         # Press "q" to quit
         if cv2.waitKey(25) & 0xFF == ord("q"):

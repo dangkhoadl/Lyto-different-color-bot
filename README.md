@@ -17,10 +17,11 @@ make run
 
 <img src="./assets/demo.jpg" width="700"/>
 
-- [https://www.youtube.com/watch?v=rEbPOVu8Ho0](https://www.youtube.com/watch?v=rEbPOVu8Ho0)
+- [Detection mode](https://www.youtube.com/watch?v=rEbPOVu8Ho0)
+- [Auto-click mode](https://youtu.be/x5Up1drOs4U)
 
 #### Reference
 - [Detect circles - OpenCV](https://www.pyimagesearch.com/2014/07/21/detecting-circles-images-using-opencv-hough-circles/)
 
 #### TODO
-- Autoclick feature
+- Multithreading visual
